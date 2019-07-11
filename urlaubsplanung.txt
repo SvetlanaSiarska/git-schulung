@@ -1,0 +1,23 @@
+Urlaubsplanung Vollmer Team
+
+Zeitraum: 3. - 18. August (16 Tage)
+
+Mitreisende: 
+  - Anton (mit Hund)
+  - Bernd
+  - Christina
+
+Mögliche Reiseziele: 
+  - Island
+  - Lyon
+  - Mallorca
+  - Zypern
+  
+Abstimmung (bitte hier abstimmen): 
+  - Island
+  - Lyon
+  - Mallorca 
+  - Zypern
+  - Südtirol
+
+Tag v1.0.0
